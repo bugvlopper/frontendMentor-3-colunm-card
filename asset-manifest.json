@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frontendMentor-3-colunm-card/static/css/main.6b2875df.css",
+    "main.js": "/frontendMentor-3-colunm-card/static/js/main.0792e590.js",
+    "static/js/787.a87592ee.chunk.js": "/frontendMentor-3-colunm-card/static/js/787.a87592ee.chunk.js",
+    "index.html": "/frontendMentor-3-colunm-card/index.html",
+    "main.6b2875df.css.map": "/frontendMentor-3-colunm-card/static/css/main.6b2875df.css.map",
+    "main.0792e590.js.map": "/frontendMentor-3-colunm-card/static/js/main.0792e590.js.map",
+    "787.a87592ee.chunk.js.map": "/frontendMentor-3-colunm-card/static/js/787.a87592ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b2875df.css",
+    "static/js/main.0792e590.js"
+  ]
+}
